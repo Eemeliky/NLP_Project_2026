@@ -3,3 +3,6 @@ pandas
 jupyter
 matplotlib
 numpy
+gensim
+scikit-learn
+adjustText
