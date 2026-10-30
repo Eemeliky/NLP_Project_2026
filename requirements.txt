@@ -6,3 +6,4 @@ numpy
 gensim
 scikit-learn
 requests
+scipy
